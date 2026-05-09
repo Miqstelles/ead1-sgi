@@ -205,7 +205,7 @@ totais — todos verdes na máquina de desenvolvimento):
 | Backend criptográfico | GnuPG 2.5 (RFC 4880) |
 | Framework de testes | pytest 8 |
 | Conversão de documento | pandoc + xelatex |
-| Repositório | `https://github.com/<usuario>/pgp-chat-sgi` *(placeholder — atualizar após `gh repo create`)* |
+| Repositório | <https://github.com/Miqstelles/ead1-sgi> |
 
 A escolha de `python-gnupg` em vez de `cryptography` ou `PyCryptodome` se dá
 porque o GnuPG implementa o **OpenPGP real** (formato `.asc`,
